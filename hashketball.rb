@@ -6,7 +6,7 @@ def game_hash
     :colors => ["black", "white"], 
     :players => [
       {
-        :Player_name =>"Alan Anderson", 
+        :player_name =>"Alan Anderson", 
       :Shoe => 16, 
       :Points => 22, 
       :Rebounds => 12,
@@ -16,7 +16,7 @@ def game_hash
       :Slam_dunks => 1  
         
       }, 
-      {:Player_name =>"Reggie Evans", 
+      {:player_name =>"Reggie Evans", 
       :Number => 30, 
       :Shoe => 14, 
       :Points => 12, 
@@ -25,7 +25,7 @@ def game_hash
       :Steals => 12, 
       :Blocks => 12, 
       :Slam_dunks => 7},
-      {:Player_name =>"Brook Lopez",
+      {:player_name =>"Brook Lopez",
       :Number => 11, 
       :Shoe => 17, 
       :Points => 17, 
@@ -34,7 +34,7 @@ def game_hash
       :Steals => 3, 
       :Blocks => 1, 
       :Slam_dunks => 15},  
-      {:Player_name =>"Mason Pumlee", 
+      {:player_name =>"Mason Pumlee", 
       :Shoe => 19, 
       :Points => 26, 
       :Rebounds => 11, 
@@ -42,7 +42,7 @@ def game_hash
       :Steals => 3, 
       :Blocks => 8,
       :Slam_dunks => 5}, 
-      {:Player_name => "Jason Terry", 
+      {:player_name => "Jason Terry", 
       :Number => 31, 
       :Shoe => 15, 
       :Points => 19, 
@@ -61,7 +61,7 @@ def game_hash
     :colors => ["Turquoise", "Purple"],
     :players => [
       {
-        :Player_name =>"Jeff Adrien", 
+        :player_name =>"Jeff Adrien", 
         :Shoe => 18, 
         :Points => 10, 
         :Rebounds => 1, 
@@ -70,7 +70,7 @@ def game_hash
         :Blocks => 7, 
         :Slam_dunks => 2}, 
       {
-        :Player_name =>"Bismack Biyombo", 
+        :player_name =>"Bismack Biyombo", 
         :Number => 0, 
         :Shoe => 16, 
         :Points => 12, 
@@ -82,7 +82,7 @@ def game_hash
         
       }, 
       {
-        :Player_name =>"DeSagna Diop",
+        :player_name =>"DeSagna Diop",
         :Shoe => 14, 
         :Points => 24, 
         :Rebounds => 12, 
@@ -90,7 +90,7 @@ def game_hash
         :Blocks => 5, 
         :Slam_dunks => 5}, 
       {
-        :Player_name =>"Ben Gordan", 
+        :player_name =>"Ben Gordan", 
         :Number => 8, :Shoe => 15, 
         :Points=> 33, 
         :Rebounds => 3, 
@@ -99,7 +99,7 @@ def game_hash
         :Blocks => 5, 
         :Slam_dunks => 12}, 
         {
-          :Player_name =>"Kemba Walker", 
+          :player_name =>"Kemba Walker", 
           :Number => 33,
           :Shoe => 15, 
           :Points => 6, 
