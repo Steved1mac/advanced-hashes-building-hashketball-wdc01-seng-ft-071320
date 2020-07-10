@@ -85,6 +85,7 @@ def game_hash
       }, 
       {
         :player_name =>"DeSagna Diop",
+        :number => 
         :shoe => 14, 
         :points => 24, 
         :rebounds => 12, 
